@@ -1,0 +1,8 @@
+#ignore .idea
+build/
+.idea
+
+#ignore out
+out
+
+*.iml
